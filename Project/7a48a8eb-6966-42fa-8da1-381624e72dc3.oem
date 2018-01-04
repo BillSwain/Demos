@@ -279,7 +279,7 @@
           </Entity>
         </ChildEntities>
       </Entity>
-      <Entity type="Device" subtype="NA" id="81ba6f4f-d750-4a24-8b05-2ecf96a4eba7" name="HMI_NA5_0" version="0" dateCreated="01/04/2018 13:12:00" dateLastModified="01/04/2018 13:13:52" trackingId="e4d20b9a-af30-4447-a2a2-371086e82566" DN="HMI_NA5_0" hash="d0a12769907db337cbd2874fe29ab0d9" DHS="84cf73b42db6b0a9a9b9c3a2a545c0a6" TH="794fd59b1ae46a9743ae3d7af9df67c7">
+      <Entity type="Device" subtype="NA" id="81ba6f4f-d750-4a24-8b05-2ecf96a4eba7" name="HMI_NA5_0" version="0" dateCreated="01/04/2018 13:12:00" dateLastModified="01/04/2018 13:13:52" trackingId="e4d20b9a-af30-4447-a2a2-371086e82566" DN="HMI_NA5_0" hash="d0a12769907db337cbd2874fe29ab0d9" DHS="40c1faa484a6e9b6683ad676e6516622" TH="a5b7052ec5ff0a45cc585f71abbeba18">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="c8e4e096-c769-4076-9943-e8f05ef03eb3" name="Watch" version="0" dateCreated="01/04/2018 13:12:00" trackingId="ad496b3f-b39b-4820-aea0-e25cda4a28ea">
@@ -321,7 +321,7 @@
           <Entity type="HmiPagesGroup" subtype="MainPagesGroup" id="63b3d901-9835-41a9-8500-06c47958ae19" name="Pages" version="0" dateCreated="01/04/2018 13:12:00" dateLastModified="01/04/2018 13:13:52" trackingId="d148e8d9-94e0-4511-b48d-5760fd399c10" DN="Pages">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="HmiPage" subtype="GraphicalPage" id="ec738274-98f1-4c33-a19c-4d3afbcb3cdc" name="Page0" version="0" dateCreated="01/04/2018 13:12:01" dateLastModified="01/04/2018 13:13:52" trackingId="d3ac5cf9-d19f-486f-b32c-01f2fe1b30b4" hash="4ee8152eec452210112377f64ad1c7d7">
+              <Entity type="HmiPage" subtype="GraphicalPage" id="ec738274-98f1-4c33-a19c-4d3afbcb3cdc" name="Page0" version="0" dateCreated="01/04/2018 13:12:01" dateLastModified="01/04/2018 14:36:59" trackingId="d3ac5cf9-d19f-486f-b32c-01f2fe1b30b4" hash="8ae69c3e45557b0fd0a0622209c56153">
                 <AccessInfos />
                 <ChildEntities>
                   <Entity type="HmiPage" subtype="VisualBasicPage" id="c9587cd5-0c71-4373-bd0e-e3797d12fc65" name="Page.vb" version="0" dateCreated="01/04/2018 13:12:01" dateLastModified="01/04/2018 13:12:01" trackingId="53c8cd76-1574-47da-b0b2-7437a3a19b1b">
