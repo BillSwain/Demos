@@ -1,0 +1,1 @@
+﻿{"CLs":[{"__type":"LD","Var":"test1"},{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In","Ix":1,"Type":"ANY","Var":"REAL#34.56"}],"Ix":3,"Name":"MOVE","Out":[{"__type":"PF","Arg":"ENO"},{"__type":"PRM","Arg":"Out","Ix":2,"Type":"ANY","Var":"testVar"}],"X":1}],"LRI":4,"RRI":5,"VLs":[]}

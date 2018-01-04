@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="GIT test with HMI" id="7a48a8eb-6966-42fa-8da1-381624e72dc3" trackingId="d8a7a5d4-8896-41a3-b37a-3e290f258d77" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-7W001☐Version:1.08" />
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="DBCon V1.02" />
+      <ApplicationFeature name="SetUnit NJ501-1320 Ver. 1.16" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>

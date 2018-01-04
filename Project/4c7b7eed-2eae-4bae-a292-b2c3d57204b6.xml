@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <MappedVariableIds>
+    <MappedVariableId PortId="7257cc8e-0274-4ff7-b543-74e2e906a5cb">
+      <MappedVariable VariableId="d2ca0368-aaed-4451-a2f8-042ae6e7c728" />
+    </MappedVariableId>
+  </MappedVariableIds>
+  <VariableTableTrackingIds>
+    <VariableTableTrackingId VariableId="d2ca0368-aaed-4451-a2f8-042ae6e7c728" VariableTableTrackingId="0f87e4dc-e742-494d-9274-3ae1ae957685" />
+  </VariableTableTrackingIds>
+</data>
